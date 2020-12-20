@@ -97,8 +97,8 @@ You can add regular expression by
 After the document is uploaded for prediction, once the information is extracted and the document is "Approved", if you want to send the extracted information to any other system then you can make use of this feature. You can configure "Rest Endpoint" in this category. Currently, IDP just supports "Rest Endpoints" secured with "Basic" authentication.
 
 To configure Rest end point for the category, follow below steps from Training Dashboard
- - Click on ![](/assets/TrainingCategorySettings.PNG) available at against each category record.
- - System will open following screen where rest endpoint can configured. 
+ - Click on ![](/assets/TrainingCategorySettings.png) available against each category.
+ - System will open following screen for configuring rest endpoint.
  - You can also disable the "Rest Endpoint" if you no longer want to submit the data to the endpoint.
 
  ![](/assets/TrainingCategorySettingsPage.PNG)
